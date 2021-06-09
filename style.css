@@ -98,7 +98,7 @@ textarea:focus {
 
 nav {
   height: 72px;
-  background: #FFCB12;
+  background: black;
   width: 100%;
   margin: 0;
   position: fixed;
@@ -138,7 +138,7 @@ nav ul {
 #logo-img {
   display: flex;
   height: 100%;
-  background: #FFCB12;
+  background: black;
   padding: 0 32px;
   align-items: center;
   color: white;
@@ -150,7 +150,7 @@ nav ul {
 }
 
 #logo-img:hover {
-  background: #FFCB12;
+  background: black;
 }
 
 #menu-icon {
